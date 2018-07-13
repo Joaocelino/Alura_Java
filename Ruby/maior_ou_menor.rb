@@ -19,4 +19,5 @@ puts "Escolhido.. que tal adivinhas hoje nosso número secreto?"
                 puts "O numero secreto é maior"
             else 
                 puts "O numero secreto é menor"
+            end
     end
